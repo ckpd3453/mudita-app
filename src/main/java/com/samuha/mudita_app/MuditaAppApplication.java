@@ -8,6 +8,7 @@ public class MuditaAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MuditaAppApplication.class, args);
+		System.out.print("Chandss");
 	}
 
 }
